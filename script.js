@@ -4,4 +4,4 @@ function showTime() {
 showTime();
 setInterval(function () {
 	showTime();
-}, 500);
+}, 1000);
